@@ -293,8 +293,9 @@ body {
 #respostas {
   /* background-color: #ff4081; */
   height: 100%;
-  margin-top: 120vh;
+  margin-top: 200vh;
   z-index: 110;
+  opacity: 0;
 }
 
 .resposta:active {
