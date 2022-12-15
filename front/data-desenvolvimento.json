@@ -1,0 +1,250 @@
+[
+    {
+        area: "Desenvolvimento",
+        pergunta: " No Brasil, a tecnologia de computação em nuvem é muito recente, mas está se tornando madura muito rapidamente. Empresas de médio, pequeno e grande porte estão adotando a tecnologia gradativamente. O serviço começou a ser oferecido comercialmente em:",
+        respostas: [
+            {
+                desc: "2007",
+                respostacerta: 0
+            },
+            {
+                desc: "2008",
+                respostacerta: 1
+            },
+            {
+                desc: "2010",
+                respostacerta: 0
+            },
+            {
+                desc: "2011",
+                respostacerta: 0
+            }
+        ]
+    },
+    {
+        "area": "Desenvolvimento",
+        "pergunta": "O ciclo de vida do software é a estrutura que contém processos, atividades e tarefas envolvidas no desenvolvimento, operação e manutenção de um produto de software. Assinale a alternativa que identifica corretamente o modelo mais antigo de ciclo de vida de software",
+        "respostas": [
+            {
+                "desc": "Aspiral",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Incremental",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Prototipagem",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Cascata",
+                "respostacerta": 1
+            }
+        ]
+    },
+    {
+        "area": "Desenvolvimento",
+        "pergunta": "Existem diversos modelos de desenvolvimento de software na literatura. Sabendo disso é correto afirmar que o modelo que se baseia na ideia de desenvolver uma versão inicial do produto, apresentá-la para os comentários dos clientes e continuar o desenvolvimento, por meio da criação de diversas versões, até que um produto final adequado seja alcançado, é o:",
+        "respostas": [
+            {
+                "desc": "modelo orientado a objetos.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "modelo orientado ao reúso.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "modelo incremental.",
+                "respostacerta": 1
+            },
+            {
+                "desc": "modelo cascata.",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Desenvolvimento",
+        "pergunta": "No contexto das metodologias ágeis, o conceito de refatoração compreende:",
+        "respostas": [
+            {
+                "desc": "a renomeação de atributos e métodos para implementar melhorias no software.",
+                "respostacerta": 1
+            },
+            {
+                "desc": "a decomposição de histórias de usuário em uma série de tarefas de desenvolvimento.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "a substituição do resultado de uma sprint inteira para atender a requisitos diferentes dos originais.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "a junção de alterações de código às funcionalidades do software já entregue.",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Desenvolvimento",
+        "pergunta": "Assinale a opção que apresenta a função JDBC ResultSet que executa a instrução SQL fornecida, que retorna um único objeto ResultSet:",
+        "respostas": [
+            {
+                "desc": "executeBatch()n",
+                "respostacerta": 0
+            },
+            {
+                "desc": "executeQuery()",
+                "respostacerta": 1
+            },
+            {
+                "desc": "executeUpdate()",
+                "respostacerta": 0
+            },
+            {
+                "desc": "executeUpdate()",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Desenvolvimento",
+        "pergunta": "Na navegação em uma aplicação web, os links acessíveis fazem parte da abordagem de:",
+        "respostas": [
+            {
+                "desc": "Coluna de navegação vertical.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Link de navegação individual.",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Barra de navegação horizontal.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Guias e mapas de sítios.",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Desenvolvimento",
+        "pergunta": "Os microsserviços criam vários serviços, cada qual executando em seu próprio processo, mas que não podem ser implantados de forma independente.:",
+        "respostas": [
+            {
+                "desc": "Certo",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Errado",
+                "respostacerta": 1
+            }
+        ]
+    },
+    {
+        "area": "Desenvolvimento",
+        "pergunta": "Os comandos SQL possuem duas grandes categorias que são DML e DDL. Relacione essas categorias da coluna da esquerda com os seus respectivos comandos da coluna da direita:",
+        "respostas": [
+            {
+                "desc": "DDL - DROP, ALTER e DML - SELECT, UPDATE",
+                "respostacerta": 1
+            },
+            {
+                "desc": "DDL - SELECT, ALTER e DML - SELECT, UPDATE ",
+                "respostacerta": 0
+            },
+            {
+                "desc": "DDL - DROP, ALTER e DML - ALTER, SELECT, UPDATE",
+                "respostacerta": 0
+            },
+            {
+                "desc": "DDL - SELECT, UPDATE e DML - DROP, ALTER ",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Desenvolvimento",
+        "pergunta": "Em um banco de dados relacional, todos os usuários devem possuir uma mesma visão (view) do banco de dados, o que é necessário para garantir a consistência dos dados:",
+        "respostas": [
+            {
+                "desc": "Certo",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Errado",
+                "respostacerta": 1
+            }
+        ]
+    },
+    {
+        "area": "Desenvolvimento",
+        "pergunta": "Para recuperar linhas de um banco de dados SQL Server 2005, pode-se utilizar o comando SQL:",
+        "respostas": [
+            {
+                "desc": "INSERT",
+                "respostacerta": 0
+            },
+            {
+                "desc": "READ",
+                "respostacerta": 0
+            },
+            {
+                "desc": "CONSULT",
+                "respostacerta": 0
+            },
+            {
+                "desc": "SELECT",
+                "respostacerta": 1
+            }
+        ]
+    },
+    {
+        "area": "Desenvolvimento",
+        "pergunta": "O utilitário Explain Plan:",
+        "respostas": [
+            {
+                "desc": "É criado pegando-se uma string de qualquer comprimento e codificando-a em uma impressão digital de 128 bits",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Serve para criar uma expressão da álgebra relacional criando os índices necessários para executar uma consulta.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Relata a maneira como uma consulta usa os índices do banco de dados.",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Deve executar o SQL para determinar o tamanho do resultado.",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Desenvolvimento",
+        "pergunta": "Assinale a alternativa correspondente ao processo de desenvolvimento de software, cujos valores centrais são comunicação, simplicidade, feedback, coragem e respeito:",
+        "respostas": [
+            {
+                "desc": "Scrum",
+                "respostacerta": 1
+            },
+            {
+                "desc": "TDD",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Modelo Interativo",
+                "respostacerta": 0
+            },
+            {
+                "desc": "XP",
+                "respostacerta": 0
+            }
+        ]
+    }
+]

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="879" height="877" viewBox="0 0 879 877">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.255" y1="0.322" x2="1.112" y2="0.662" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#6c2ef3"/>
+      <stop offset="1" stop-color="#20736b"/>
+    </linearGradient>
+    <clipPath id="clip-bolita-01">
+      <rect width="879" height="877"/>
+    </clipPath>
+  </defs>
+  <g id="bolita-01" clip-path="url(#clip-bolita-01)">
+    <rect width="879" height="877" fill="#fff"/>
+    <circle id="Elipse_35" data-name="Elipse 35" cx="377.471" cy="377.471" r="377.471" transform="matrix(-0.259, 0.966, -0.966, -0.259, 894.179, 152.961)" opacity="1" fill="url(#linear-gradient)"/>
+  </g>
+</svg>

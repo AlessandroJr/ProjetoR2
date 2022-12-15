@@ -1,0 +1,90 @@
+[
+    {
+        "area": "Suporte Técnico",
+        "pergunta": "Sobre Help Desk assinale a INCORRETA:",
+        "respostas": [
+            {
+                "desc": "O Help Desk é um termo em inglês que significa literalmente \"balcão de ajuda\" e que se refere a um serviço de atendimento aos clientes que procuram por soluções, esclarecimentos sobre dúvidas e outras solicitações para problemas técnicos relacionados a telefonia, informática, tecnologia da informação ou, ainda, pré e pós-vendas.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "O Help Desk é realizado de modo síncrono e exclusivamente por meio de comunicação online.",
+                "respostacerta": 1
+            },
+            {
+                "desc": "A melhoria constante dos processos do serviço de Help Desk é importante e necessária para a qualidade do atendimento prestado ao usuário/cliente.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "O serviço de Help Desk centraliza o recebimento das solicitações dos clientes, o que facilita as respostas e resolução dos problemas.",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Suporte Técnico",
+        "pergunta": "O serviço de apoio a usuários para suporte e resolução de problemas técnicos em informática, telefonia e tecnologias de informação é comumente denominado help desk. Com relação a help desk, assinale a opção correta:",
+        "respostas": [
+            {
+                "desc": "Em uma estrutura de help desk, os problemas são resolvidos sempre no primeiro nível de atendimento.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Um dos objetivos do help desk é fornecer um ponto único de contato aos usuários de tecnologia da informação.",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Um help desk trabalha sem o conceito de SLA (service level agreement), porque as métricas para help desk são padronizadas internacionalmente.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "A evolução natural do help desk se denomina web desk.",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Suporte Técnico",
+        "pergunta": "Um dos principais objetivos de uma solução para gerenciamento de Help Desk é:",
+        "respostas": [
+            {
+                "desc": "Criar um histórico de todas as auditorias realizadas.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Controlar todas as solicitações pendentes dos usuários.",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Registrar todas as estações de trabalho não conectadas à rede.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Detectar as alterações de hardware realizadas nas estações da rede.",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Suporte Técnico",
+        "pergunta": "Num Help Desk, é o grupo que resolve o problema por meio do uso de ferramentas complementares, tais como, base de conhecimento e software de controle remoto, visando ao encerramento do problema sem a necessidade de escalonar o assunto para outro nível. Trata-se do grupo de:",
+        "respostas": [
+            {
+                "desc": "Segundo nível solucionador",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Primeiro nível direcionador.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Segundo nível especializado.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Primeiro nível solucionador.",
+                "respostacerta": 1
+            }
+        ]
+    }
+]

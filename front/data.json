@@ -1,0 +1,214 @@
+[
+    {
+        "area": "Design",
+        "pergunta": "Qual a importância de um Design System para um produto?",
+        "respostas": [
+            {
+                "desc": "Nenhuma, só vai me gerar mais trabalho",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Para formatar visualmente todas as partes de um produto",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Para que todas as partes de um mesmo produto sigam as mesmas regras visuais e de comportamento",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Para ficar bonito no meu portfólio.",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Design",
+        "pergunta": "Como se chama o nome da metodologia que aplica as seguintes etapas: descobrir, definir, desenvolver e entregar?",
+        "respostas": [
+            {
+                "desc": "Design Thinking",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Diamante Duplo",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Munari",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Lobach",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Design",
+        "pergunta": "Qual a unidade de medida mais usada para a prototipação de telas?",
+        "respostas": [
+            {
+                "desc": "DPI",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Polegadas",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Pés",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Pixels",
+                "respostacerta": 1
+            }
+        ]
+    },
+    {
+        "area": "Design",
+        "pergunta": "Como se chama a forma de pensamento voltada a resolução de problemas de maneira inteligente?",
+        "respostas": [
+            {
+                "desc": "Design Council",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Pensamento Crítico",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Design Thinking",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Teoria do arroz verde",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Design",
+        "pergunta": "Qual o padrão de cores utilizado para materiais feitos para telas?",
+        "respostas": [
+            {
+                "desc": "Fogra39",
+                "respostacerta": 0
+            },
+            {
+                "desc": "CMYK",
+                "respostacerta": 0
+            },
+            {
+                "desc": "RGB",
+                "respostacerta": 1
+            },
+            {
+                "desc": "WebCoated",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Design",
+        "pergunta": "Que nome se dá ao processo de validação de protótipos com o usuário?",
+        "respostas": [
+            {
+                "desc": "Teste de Usabilidade",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Versaõ Beta",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Teste A/B",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Aprovação de protótipo",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Design",
+        "pergunta": "UX/UI Designer precisam saber programar?",
+        "respostas": [
+            {
+                "desc": "Sim",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Não",
+                "respostacerta": 1
+            }
+        ]
+    },
+    {
+        "area": "Design",
+        "pergunta": "Qual o nome dado ao profissional de faz UX, UI e Front-End?",
+        "respostas": [
+            {
+                "desc": "Designer Unicórnio",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Severino",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Designer Pleno",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Designer Fullstack",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Design",
+        "pergunta": "O que faz um UX/UI Designer?",
+        "respostas": [
+            {
+                "desc": "Telas bonitas",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Projetos de interface e experiência do usuário",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Criação de publicidades para redes sociais",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Atendimento ao clinete",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Design",
+        "pergunta": "São trabalhos de um UX/UI Designer todos, EXCETO: ",
+        "respostas": [
+            {
+                "desc": "Projetos de planta baixa",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Arquitetura da informação",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Gamificação",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Design de interface",
+                "respostacerta": 0
+            }
+        ]
+    }
+]

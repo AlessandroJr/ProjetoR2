@@ -1,0 +1,200 @@
+[
+    {
+        "area": "Perfil",
+        "pergunta": "Eu gosto de...",
+        "respostas": [
+            {
+                "desc": "Ser piloto",
+                "tipo": "A"
+            },
+            {
+                "desc": "Conversar com os passageiros",
+                "tipo": "C"
+            },
+            {
+                "desc": "Planejar a viagem",
+                "tipo": "O"
+            },
+            {
+                "desc": "Explorar novas rotas",
+                "tipo": "I"
+            }
+        ]
+    },
+    {
+        "area": "Perfil",
+        "pergunta": "Para conseguir obter bons resultados é preciso...",
+        "respostas": [
+            {
+                "desc": "Ter incertezas",
+                "tipo": "I"
+            },
+            {
+                "desc": "Diversão e celebração",
+                "tipo": "C"
+            },
+            {
+                "desc": "Controlar o essencial",
+                "tipo": "O"
+            },
+            {
+                "desc": "Planejar e obter recursos",
+                "tipo": "A"
+            }
+        ]
+    },
+    {
+        "area": "Perfil",
+        "pergunta":"Minha preocupação é...",
+        "respostas": [
+            {
+                "desc": "Gerar a ideia global",
+                "tipo": "I"
+            },
+            {
+                "desc": "Fazer com que as pessoas gostem de mim",
+                "tipo": "C"
+            },
+            {
+                "desc": "Fazer com que funcione",
+                "tipo": "O"
+            },
+            {
+                "desc": "Fazer com que aconteça",
+                "tipo": "A"
+            }
+        ]
+    },
+    {
+        "area": "Perfil",
+        "pergunta": "Eu gosto de...",
+        "respostas": [
+            {
+                "desc": "Fazer progresso",
+                "tipo": "A"
+            },
+            {
+                "desc": "Construir memórias",
+                "tipo": "C"
+            },
+            {
+                "desc": "Fazer sentido",
+                "tipo": "O"
+            },
+            {
+                "desc": "Tornar as pessoas confortáveis",
+                "tipo": "I"
+            }
+        ]
+    },
+    {
+        "area": "Perfil",
+        "pergunta": "Um ótimo dia para mim é quando...",
+        "respostas": [
+            {
+                "desc": "Consigo fazer muitas coisas",
+                "tipo": "A"
+            },
+            {
+                "desc": "Me divirto com os meus amigos",
+                "tipo": "C"
+            },
+            {
+                "desc": "Tudo segue conforme o planejado",
+                "tipo": "O"
+            },
+            {
+                "desc": "Desfruto de coisas novas e estimulantes",
+                "tipo": "I"
+            }
+        ]
+    },
+    {
+        "area": "Perfil",
+        "pergunta": "Eu gosto de mudanças se...",
+        "respostas": [
+            {
+                "desc": "Me der uma vantagem competitiva",
+                "tipo": "A"
+            },
+            {
+                "desc": "For me divertir e puder ser compartilhado",
+                "tipo": "C"
+            },
+            {
+                "desc": "Me dê mais liberdade e variedade",
+                "tipo": "I"
+            },
+            {
+                "desc": "Melhorar ou me der mais controle",
+                "tipo": "O"
+            }
+        ]
+    },
+    {
+        "area": "Perfil",
+        "pergunta": "Meu lema é...",
+        "respostas": [
+            {
+                "desc": "Fazer o que precisa ser feito",
+                "tipo": "I"
+            },
+            {
+                "desc": "Fazer bem feito",
+                "tipo": "O"
+            },
+            {
+                "desc": "Fazer junto com o grupo",
+                "tipo": "C"
+            },
+            {
+                "desc": "Simplesmente fazer",
+                "tipo": "A"
+            }
+        ]
+    },
+    {
+        "area": "Perfil",
+        "pergunta": "Se eu fosse bilionário(a)...",
+        "respostas": [
+            {
+                "desc": "Faria doações para muitas entidades",
+                "tipo": "C"
+            },
+            {
+                "desc": "Criaria uma poupança avantajada",
+                "tipo": "O"
+            },
+            {
+                "desc": "Faria o que desse na cabeça",
+                "tipo": "I"
+            },
+            {
+                "desc": "Me exibiria bastante com algumas pessoas",
+                "tipo": "A"
+            }
+        ]
+    },
+    {
+        "area": "Perfil",
+        "pergunta": "Eu penso que...",
+        "respostas": [
+            {
+                "desc": "Unidos (as) venceremos, divididos(as) perdemos",
+                "tipo": "C"
+            },
+            {
+                "desc": "O ataque é a melhor defesa",
+                "tipo": "A"
+            },
+            {
+                "desc": "É bom ser manso(a), mas andar com um porrete",
+                "tipo": "I"
+            },
+            {
+                "desc": "Uma pessoa prevenida vale por duas",
+                "tipo": "O"
+            }
+        ]
+    }
+]

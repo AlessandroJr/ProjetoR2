@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="197" height="198" viewBox="0 0 197 198">
+  <defs>
+    <clipPath id="clip-triangulo">
+      <rect width="197" height="198"/>
+    </clipPath>
+  </defs>
+  <g id="triangulo" clip-path="url(#clip-triangulo)">
+    <rect width="197" height="198" fill="#fff"/>
+    <g id="Grupo_349" data-name="Grupo 349" transform="translate(-6497.854 -3092)">
+      <path id="Caminho_2568" data-name="Caminho 2568" d="M89.2.063l88.457,185.314L.131,185.67Z" transform="translate(6754.765 3227.196) rotate(135)" fill="#2a2929"/>
+      <g id="Grupo_348" data-name="Grupo 348" transform="translate(6500.765 3092)">
+        <path id="Caminho_2569" data-name="Caminho 2569" d="M89.2.063l88.457,185.314L.131,185.67Z" transform="translate(257 131.196) rotate(135)" fill="#1dc18a"/>
+        <path id="Polígono_9_-_Contorno" data-name="Polígono 9 - Contorno" d="M89.2,2.36,1.707,184.676l174.378-.288L89.2,2.36m0-2.3,88.457,185.314L.131,185.67Z" transform="translate(257 131.196) rotate(135)" fill="#2a2929"/>
+      </g>
+    </g>
+  </g>
+</svg>

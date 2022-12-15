@@ -1,0 +1,198 @@
+[
+    {
+        "area": "Conhecimentos gerais",
+        "pergunta": "A diversidade regional é característica predominante na cultura brasileira, mas a falta de conhecimento e aceitação das diferenças por uma parcela da população leva tal multiplicidade a diversos tipos de preconceito.",
+        "respostas": [
+            {
+                "desc": "Certo",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Errado",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Conhecimentos gerais",
+        "pergunta": "A ventilação pulmonar nos mamíferos ocorre em função dos movimentos respiratórios de inspiração e expiração, que, respectivamente, elevam e reduzem a pressão nos alvéolos pulmonares. Tal variação de pressão permite:",
+        "respostas": [
+            {
+                "desc": "O transporte ativo do gás carbônico do plasma sanguíneo para os alvéolos pulmonares e, posteriormente, sua eliminação.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "A difusão do gás oxigênio dos alvéolos para o interior das hemácias, onde localizam-se as moléculas de hemoglobina.",
+                "respostacerta": 1
+            },
+            {
+                "desc": "O transporte ativo do gás oxigênio dos alvéolos para o plasma sanguíneo, onde localizam-se as hemácias.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "A difusão do gás carbônico do plasma sanguíneo para os alvéolos, para que sejam formados os íons bicarbonato.",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Conhecimentos gerais",
+        "pergunta": "A intensidade de um som ou dinâmica é, na física, geralmente associada à amplitude da onda sonora.",
+        "respostas": [
+            {
+                "desc": "Certo",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Errado",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Conhecimentos gerais",
+        "pergunta": "Atente para a seguinte lista de números naturais que foi construída seguindo uma lógica estrutural própria:4, 9, 25, 49, 121, .......... Considerando essa lógica, é correto dizer que a soma do oitavo com o nono número da lista é igual:",
+        "respostas": [
+            {
+                "desc": "790",
+                "respostacerta": 0
+            },
+            {
+                "desc": "970",
+                "respostacerta": 0
+            },
+            {
+                "desc": "890",
+                "respostacerta": 1
+            },
+            {
+                "desc": "980",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Conhecimentos gerais",
+        "pergunta": "Possibilidade e probabilidade são conceitos equivalentes.",
+        "respostas": [
+            {
+                "desc": "Certo",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Errado",
+                "respostacerta": 1
+            }
+        ]
+    },
+    {
+        "area": "Conhecimentos gerais",
+        "pergunta": "De quem é a famosa frase “Penso, logo existo”?",
+        "respostas": [
+            {
+                "desc": "Platão",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Galileu Galilei",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Descartes",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Sócrates",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Conhecimentos gerais",
+        "pergunta": "De onde é a invenção do chuveiro elétrico?",
+        "respostas": [
+            {
+                "desc": "França",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Inglaterra",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Brasil",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Austrália",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Conhecimentos gerais",
+        "pergunta": "Quais os planetas do sistema solar?",
+        "respostas": [
+            {
+                "desc": "Terra, Vênus, Saturno, Urano, Júpiter, Marte, Netuno e Mercúrio",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Júpiter, Marte, Mercúrio, Netuno, Plutão, Saturno, Terra, Urano e Vênus",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Vênus, Saturno, Urano, Júpiter, Marte, Netuno e Mercúrio",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Júpiter, Marte, Mercúrio, Netuno, Plutão, Saturno, Sol, Terra, Urano e Vênus",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Conhecimentos gerais",
+        "pergunta": "Em que período da pré-história o fogo foi descoberto?",
+        "respostas": [
+            {
+                "desc": "Neolítico",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Paleolítico",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Idade dos Metais",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Período da Pedra Polida",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Conhecimentos gerais",
+        "pergunta": "Qual a velocidade da luz?",
+        "respostas": [
+            {
+                "desc": "300 000 000 metros por segundo (m/s)",
+                "respostacerta": 0
+            },
+            {
+                "desc": "150 000 000 metros por segundo (m/s)",
+                "respostacerta": 0
+            },
+            {
+                "desc": "199 792 458 metros por segundo (m/s)",
+                "respostacerta": 0
+            },
+            {
+                "desc": "299 792 458 metros por segundo (m/s)",
+                "respostacerta": 1
+            }
+        ]
+    }
+]

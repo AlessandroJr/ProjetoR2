@@ -1,0 +1,261 @@
+svg#explosao {
+  position: absolute;
+  top: 25px;
+  left: 31px;
+  opacity: 0;
+}
+
+/* * {
+  overflow-x: hidden!important;
+} */
+
+/* SVG#estrelinha-g {
+  position: absolute;
+  top: 378px;
+  left: 230px;
+}
+
+SVG#estrelinha-p {
+  
+} */
+
+@keyframes spinning {
+  from {
+    transform: rotate(0deg) translate(0, 0);
+  }
+
+  to {
+    transform: rotate(360deg) translate(0, 0);
+  }
+}
+
+.spinningDefault {
+  animation-name: spinning;
+  animation-duration: 1.5s;
+  /* animation-delay: 1s; */
+  animation-iteration-count: 1;
+  animation-timing-function: easy;
+}
+
+
+@keyframes floating {
+  0% {
+    transform: translate(0px, 0px);
+  }
+
+  50% {
+    transform: translate(0px, 20px);
+  }
+
+  100% {
+    transform: translate(0px, 0px);
+  }
+}
+
+
+.floatingDefault {
+  animation-name: floating;
+  animation-duration: 3s;
+  animation-delay: 1s;
+  animation-iteration-count: infinite;
+  animation-timing-function: easy;
+}
+
+.floatingDelayed {
+  animation-name: floating;
+  animation-duration: 3s;
+  animation-delay: 0s;
+  animation-iteration-count: infinite;
+  animation-timing-function: easy;
+}
+
+#triangulo ,
+#piramide ,
+#estrela-p ,
+#estrela-m ,
+#estrela-g ,
+#olho-aberto ,
+#planeta {
+  position: absolute;
+  z-index: 10;
+}
+
+#curva-verde {
+  z-index: -15;
+  width: 100vw;
+  margin-top: -100%;
+}
+
+#curva-vermelha {
+  z-index: -15;
+  width: 100vw;
+  margin-top: -100%;
+}
+
+#curva-rosa {
+  z-index: -15;
+  margin-top: -100%;
+}
+
+/*----------------*/
+
+#estrela-loading {
+  position: absolute;
+  margin: auto;
+  top:32vh;
+  opacity: 0;
+  width: 100px;
+  left: auto;
+}
+
+#curva-verde-curta {
+  position: absolute;
+  width: 100%;
+  top:150vh;
+}
+
+#curva-vermelho-curta {
+  position: absolute;
+  width: 100%;
+  top:150vh;
+}
+
+#inserir-nome {
+  width: 404px;
+  /* position: absolute; */
+  /* top: 150vh; */
+}
+
+#estrela-inline {
+  display: inline-block;
+  width: 100px;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+#olho-easter{
+  position: absolute;
+  top: 40vh;
+  margin: auto;
+  opacity: 0;
+  z-index: 10;
+}
+
+#oe-aberto {
+  width: 100px;
+}
+
+#oe-fechado {
+  width: 100px;
+}
+
+#planeta-loading {
+  position: absolute;
+  margin: auto;
+  top:32vh;
+  opacity: 0;
+  width: 150px;
+  left: auto;
+}
+
+#btns-carreiras {
+  margin-top: 20px;
+}
+
+
+
+
+/*---------------------------------------------------------------------------------------------------------*/
+/*              AJUSTES GERAIS                                                                             */
+/*---------------------------------------------------------------------------------------------------------*/
+
+.exp-background{fill:#FAC710;}
+.exp-border{fill:#2A2929;}
+
+/*---------------------------------------------------------------------------------------------------------*/
+/*              SUAVIZAÇÕES                                                                                */
+/*---------------------------------------------------------------------------------------------------------*/
+
+.backdoor #backdoor #triangulo,
+.backdoor #backdoor #piramide,
+.backdoor #backdoor #planeta,
+.backdoor #backdoor #olho-aberto,
+.backdoor #backdoor #estrela-m,
+.overlay  #overlay  #estrela-p,
+.overlay  #overlay  #estrela-g,
+.backdoor #backdoor #curva-verde,
+.backdoor #backdoor #curva-rosa,
+.backdoor #backdoor #curva-vermelha,
+#curva-verde-curta,
+#curva-vermelho-curta
+ {
+  transition: all 3s ease;
+}
+
+.backdoor #backdoor #curva-vermelha svg {
+  text-shadow: -6px 6px 0px #0D0603;
+}
+
+#janelinha,
+#janelinha .janelinha-header,
+.janelinha,
+.btn-bottom
+  {
+  transition: all 0.5s ease;
+}
+
+svg#explosao,
+#ola,
+.txt1,
+.txt2,
+#planeta-loading,
+.header-pergunta
+{
+  transition: all 0.5s ease;
+}
+
+#estrela-loading,
+.antesdetudo,
+.perfeitonome,
+.minutinho,
+.seguircarreira,
+.agorashow,
+#btns-carreiras,
+#olho-easter,
+#curva-verde,
+#curva-vermelha,
+#computador,
+#formC,
+.resultadoAcertos,
+.waiting,
+#besquerda,
+#bdireita,
+.header,
+.logo-topo,
+.wintxt,
+.troladaPraQuemNaoLeu,
+.troladaPraQuemNaoLeuBrinks,
+.txtcentro,
+#cadeado,
+#textosvg,
+#inserir-nome,
+#cadeado-nome,
+.nomegradiente,
+#cadeado-nome svg,
+.horashow,
+#respostas,
+.horaverdade,
+.horaverdade *,
+.resultadoAcertos,
+#ttl-pergunta,
+#trofeu
+{
+  transition: all 1s ease;
+}
+
+
+/*---------------------------------------------------------------------------------------------------------*/
+/*              RESPONSIVIDADE                                                                             */
+/*---------------------------------------------------------------------------------------------------------*/
+

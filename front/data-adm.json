@@ -1,0 +1,184 @@
+[
+    {
+        "area": "Administrativo",
+        "pergunta": "Para fins de aplicação da LGPD, dado pessoal é o que permite identificar ou tornar identificável, de forma inequívoca, um indivíduo.",
+        "respostas": [
+            {
+                "desc": "Certo",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Errado",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Administrativo",
+        "pergunta": "De acordo com a Lei Geral de Proteção de Dados Pessoais, assinale a opção que indica quem deve comunicar à autoridade nacional a ocorrência de incidente de segurança relacionado a dados pessoais que possa acarretar risco ou dano relevante: ",
+        "respostas": [
+            {
+                "desc": "Titular",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Segurança de TI",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Operador",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Controlador",
+                "respostacerta": 1
+            }
+        ]
+    },
+    {
+        "area": "Administrativo",
+        "pergunta": "O método de desenvolvimento de pessoas que, para ser levado a efeito, movimenta as pessoas em várias posições na organização, no esforço de expandir suas habilidades, conhecimentos e capacidades, é conhecido como:",
+        "respostas": [
+            {
+                "desc": "Rotação de cargos",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Apredizagem prática",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Exercícios de simulação",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Atribuições de comissões",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Administrativo",
+        "pergunta": "A informação a respeito do que o ocupante do cargo faz e dos conhecimentos, habilidades e capacidades de que necessita para desempenhar o cargo adequadamente, relaciona-se com a definição de:",
+        "respostas": [
+            {
+                "desc": "Análise de cargos",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Desenho de cargos",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Descrição de cargos",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Ampliação de cargos",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Administrativo",
+        "pergunta": "A avaliação do desempenho é um processo dinâmico que envolve o avaliado e seu gerente e representa uma técnica de direção imprescindível nas atividades de administração das organizações. O desempenho do funcionário é medido pelo grau de alcance dos requisitos de seu trabalho, porém, deve proporcionar benefícios para a organização e para as pessoas, atendendo a diversas linhas básicas, dentre as quais a de:",
+        "respostas": [
+            {
+                "desc": "Ser aceita por ambas as partes: avaliador e avaliado",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Abarcar somente o desempenho dentro do cargo ocupado",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Enfatizar a impressão a respeito dos hábitos pessoais observados no trabalho",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Ser utilizada para punir o mau desempenho e excluir da organização os reincidentes",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Administrativo",
+        "pergunta": "De acordo com a Lei Geral de Proteção de Dados Pessoais, a utilização de meios técnicos razoáveis e disponíveis no momento do tratamento, por meio dos quais um dado perde a possibilidade de associação direta ou indireta a um indivíduo, consiste na técnica de:",
+        "respostas": [
+            {
+                "desc": "Bloqueio",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Anonimato",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Eliminação",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Anonimização",
+                "respostacerta": 1
+            }
+        ]
+    },
+    {
+        "area": "Administrativo",
+        "pergunta": "Em BPM, a ferramenta abaixo que é uma boa prática para comparar o desempenho de um processo com processos semelhantes no segmento de negócio é:",
+        "respostas": [
+            {
+                "desc": "Análise SWOT.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Benchmarking",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Brainstorming.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "5W2H.",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Administrativo",
+        "pergunta": "A sigla LGPD significa \"Lei Geral de Proteção de Dados\"",
+        "respostas": [
+            {
+                "desc": "Certo",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Errado",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Administrativo",
+        "pergunta": "Determinada sociedade empresária resolve passar a produzir bens na Zona Franca de Manaus, que serão destinados à comercialização no território nacional e busca informações sobre as isenções a que terá direito. Assinale a opção que indica as isenções a que terá direito:",
+        "respostas": [
+            {
+                "desc": "Do IPI.",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Do IPI e do ICMS.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Do IPI e do Imposto de Importação integral.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Do Imposto de Exportação.",
+                "respostacerta": 0
+            }
+        ]
+    }
+]

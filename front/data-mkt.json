@@ -1,0 +1,108 @@
+[
+    {
+        "area": "Marketing",
+        "pergunta": "Assinale a opção correspondente a ordem correta do funil de marketing:",
+        "respostas": [
+            {
+                "desc": "Lead > Visitante > Tráfego > Oportunidade > Cliente",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Tráfego > Visitante > Lead > Oportunidade > Cliente",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Cliente > Visitante > Lead > Tráfego > Oportunidade",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Tráfego > Visitante > Oportunidade > Lead > Cliente",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Marketing",
+        "pergunta": "No inbound marketing, é comum segmentarmos o conteúdo de acordo com a etapa da jornada do cliente em que cada lead se encontra. Nesse sentido, a utilização de cases de sucesso e materiais apresentando os benefícios do produto ou serviço é utilizado comumente na etapa:",
+        "respostas": [
+            {
+                "desc": "Topo de funil",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Meio de funil",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Fundo de funil",
+                "respostacerta": 1
+            }
+        ]
+    },
+    {
+        "area": "Marketing",
+        "pergunta": "A técnica de escrita muito utilizada no marketing e conhecida por direcionar o leitor de forma persuasiva a realizar uma ação específica, é conhecida como:",
+        "respostas": [
+            {
+                "desc": "Copywriting",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Outbound Marketing",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Briefing",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Conversão",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Marketing",
+        "pergunta": "Em um mercado altamente competitivo, é fundamental se posicionar com os vários tipos de marketing. Analise as definições e qual conceito consiste em campanhas não convencionais que tem foco na criatividade e buscam criar uma experiência inesquecível para o consumidor os conceitos deste que correspondem a cada um deles.",
+        "respostas": [
+            {
+                "desc": "Marketing de Guerrilha",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Outbound Marketing",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Endomarketing",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Marketing de Relacionamento",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Marketing",
+        "pergunta": "Quais das alternativas não se encaixam na definição, características ou exemplos de Personas:",
+        "respostas": [
+            {
+                "desc": "É a personificação do público ao qual a empresa se direciona.",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Tem como foco características abrangentes, tais como gênero, idade e região.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Auxiliam as empresas a ter uma visão mais clara e objetiva de seus usuários.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Podem ser criadas de forma intuitiva, a partir da percepção que as empresas têm de seus clientes.",
+                "respostacerta": 1
+            }
+        ]
+    }
+]

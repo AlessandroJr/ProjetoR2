@@ -1,0 +1,234 @@
+[
+    {
+        "area": "Comportamento",
+        "pergunta": "O que eu faço no fim de semana?",
+        "respostas": [
+            {
+                "desc": "Fico de boas",
+                "pontos": {
+                    "Rock": 2,
+                    "Lofi": 3,
+                    "Sertanejo": 1,
+                    "Eletrônica": 0,
+                    "Pop": 1,
+                    "Funk": 0,
+                    "Pagode": 2,
+                    "Rap": 0
+                }
+            },
+            {
+                "desc": "Saio com meu amigos",
+                "pontos": {
+                    "Rock": 0,
+                    "Lofi": 0,
+                    "Sertanejo": 4,
+                    "Eletrônica": 2,
+                    "Pop": 2,
+                    "Funk": 5,
+                    "Pagode": 3,
+                    "Rap": 3
+                }
+            },
+            {
+                "desc": "Jogo até tarde",
+                "pontos": {
+                    "Rock": 1,
+                    "Lofi": 2,
+                    "Sertanejo": 0,
+                    "Eletrônica": 3,
+                    "Pop": 0,
+                    "Funk": 0,
+                    "Pagode": 0,
+                    "Rap": 0
+                }
+            },
+            {
+                "desc": "Meto aquele treino",
+                "pontos": {
+                    "Rock": 0,
+                    "Lofi": 0,
+                    "Sertanejo": 0,
+                    "Eletrônica": 1,
+                    "Pop": 2,
+                    "Funk": 0,
+                    "Pagode": 1,
+                    "Rap": 2
+                }
+            }
+        ]
+    },
+    {
+        "area": "Comportamento",
+        "pergunta": "O que eu faria se alguém furasse a fila na minha frente?",
+        "respostas": [
+            {
+                "desc": "Sairia no soco",
+                "pontos": {
+                    "Rock": 5,
+                    "Lofi": 0,
+                    "Sertanejo": 1,
+                    "Eletrônica": 0,
+                    "Pop": 0,
+                    "Funk": 2,
+                    "Pagode": 0,
+                    "Rap": 4
+                }
+            },
+            {
+                "desc": "Xingo muito (mentalmente)",
+                "pontos": {
+                    "Rock": 0,
+                    "Lofi": 2,
+                    "Sertanejo": 1,
+                    "Eletrônica": 3,
+                    "Pop": 4,
+                    "Funk": 1,
+                    "Pagode": 2,
+                    "Rap": 0
+                }
+            },
+            {
+                "desc": "Xingo na cara da pessoa",
+                "pontos": {
+                    "Rock": 1,
+                    "Lofi": 1,
+                    "Sertanejo": 4,
+                    "Eletrônica": 1,
+                    "Pop": 1,
+                    "Funk": 5,
+                    "Pagode": 0,
+                    "Rap": 3
+                }
+            },
+            {
+                "desc": "Nem ligo",
+                "pontos": {
+                    "Rock": 0,
+                    "Lofi": 2,
+                    "Sertanejo": 2,
+                    "Eletrônica": 2,
+                    "Pop": 0,
+                    "Funk": 0,
+                    "Pagode": 3,
+                    "Rap": 0
+                }
+            }
+        ]
+    },
+    {
+        "area": "Comportamento",
+        "pergunta": "O que faço quando um(a) amigo(a) meu termina o relacionamento?",
+        "respostas": [
+            {
+                "desc": "Ligo pra consolar",
+                "pontos": {
+                    "Rock": 0,
+                    "Lofi": 2,
+                    "Sertanejo": 0,
+                    "Eletrônica": 2,
+                    "Pop": 3,
+                    "Funk": 0,
+                    "Pagode": 1,
+                    "Rap": 0
+                }
+            },
+            {
+                "desc": "Pego o(a) ex dele(a)",
+                "pontos": {
+                    "Rock": 0,
+                    "Lofi": 0,
+                    "Sertanejo": 5,
+                    "Eletrônica": 0,
+                    "Pop": 0,
+                    "Funk": 5,
+                    "Pagode": 0,
+                    "Rap": 4
+                }
+            },
+            {
+                "desc": "Não sei o que falar (eh fod@)",
+                "pontos": {
+                    "Rock": 2,
+                    "Lofi": 3,
+                    "Sertanejo": 0,
+                    "Eletrônica": 2,
+                    "Pop": 0,
+                    "Funk": 0,
+                    "Pagode": 0,
+                    "Rap": 0
+                }
+            },
+            {
+                "desc": "Convido pra afogar as mágoas no barzinho",
+                "pontos": {
+                    "Rock": 0,
+                    "Lofi": 0,
+                    "Sertanejo": 5,
+                    "Eletrônica": 0,
+                    "Pop": 2,
+                    "Funk": 2,
+                    "Pagode": 4,
+                    "Rap": 1
+                }
+            }
+        ]
+    },
+    {
+        "area": "Comportamento",
+        "pergunta": "Quem sou eu trabalhando em grupo?",
+        "respostas": [
+            {
+                "desc": "O que faz tudo sozinho",
+                "pontos": {
+                    "Rock": 0,
+                    "Lofi": 1,
+                    "Sertanejo": 0,
+                    "Eletrônica": 3,
+                    "Pop": 2,
+                    "Funk": 0,
+                    "Pagode": 0,
+                    "Rap": 0
+                }
+            },
+            {
+                "desc": "Pego carona com o que faz tudo sozinho",
+                "pontos": {
+                    "Rock": 0,
+                    "Lofi": 0,
+                    "Sertanejo": 5,
+                    "Eletrônica": 1,
+                    "Pop": 0,
+                    "Funk": 3,
+                    "Pagode": 3,
+                    "Rap": 2
+                }
+            },
+            {
+                "desc": "Fico stressado",
+                "pontos": {
+                    "Rock": 3,
+                    "Lofi": 2,
+                    "Sertanejo": 0,
+                    "Eletrônica": 2,
+                    "Pop": 0,
+                    "Funk": 4,
+                    "Pagode": 0,
+                    "Rap": 1
+                }
+            },
+            {
+                "desc": "Tento ser o líder",
+                "pontos": {
+                    "Rock": 0,
+                    "Lofi": 2,
+                    "Sertanejo": 1,
+                    "Eletrônica": 3,
+                    "Pop": 3,
+                    "Funk": 2,
+                    "Pagode": 2,
+                    "Rap": 0
+                }
+            }
+        ]
+    }
+]

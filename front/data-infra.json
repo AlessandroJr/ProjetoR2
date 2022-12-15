@@ -1,0 +1,148 @@
+[
+    {
+        "area": "Infra",
+        "pergunta": "No Brasil, a tecnologia de computação em nuvem é muito recente, mas está se tornando madura muito rapidamente. Empresas de médio, pequeno e grande porte estão adotando a tecnologia gradativamente. O serviço começou a ser oferecido comercialmente em:",
+        "respostas": [
+            {
+                "desc": "2007",
+                "respostacerta": 0
+            },
+            {
+                "desc": "2008",
+                "respostacerta": 1
+            },
+            {
+                "desc": "2010",
+                "respostacerta": 0
+            },
+            {
+                "desc": "2011",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area":	"Infra	",
+        "pergunta": "Nas redes de computadores, existe um servidor que pode residir no computador local do usuário ou em qualquer ponto entre o computador do usuário e os servidores de destino na Internet. Esse servidor passa solicitações e respostas não modificadas, armazenando em cache as páginas mais acessadas. A qual servidor o enunciado se refere?",
+        "respostas": [
+            {
+                "desc": "Servidor de banco de dados.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Servidor proxy.",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Servidor de redes.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Servidor certificado.",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Infra",
+        "pergunta": "No que diz respeito à Administração de Servidores Windows, considere as seguintes afirmativas sobre o Windows Admin Center. <br>1. Substitui completamente o MMC (Microsoft Management Console) e contempla suas ferramentas na totalidade. <br>2. É otimizado e recomendado para o Windows Server 2019, embora possa ser utilizado para gerenciar servidores Windows Server 2012 também. <br>3. A solução Gerenciamento do Computador fornece um subconjunto de recursos para gerenciar computadores cliente com Windows 7, 8 e 10.<br>Assinale a alternativa que indica todas as afirmativas corretas:",
+        "respostas": [
+            {
+                "desc": "Pendrive.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "CMOS(Complementary metal-oxide-semiconductor).",
+                "respostacerta": 0
+            },
+            {
+                "desc": "SSD (Solid State Drive).",
+                "respostacerta": 1
+            },
+            {
+                "desc": "BD-R (Blu-ray Recordable Disc).",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Infra",
+        "pergunta": "Certificado digital é um documento eletrônico que contém dados sobre a pessoa física ou jurídica que o utiliza, servindo como uma identidade virtual que confere validade jurídica e aspectos de segurança digital em transações digitais. Esse documento utiliza um sistema conhecido como:",
+        "respostas": [
+            {
+                "desc": "Criptografia.",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Autenticidade.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Integridade.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Confidencialidade.",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Infra",
+        "pergunta": "Máquinas virtuais e contêineres são ambientes de computação que combinam diversos componentes de tecnologia da informação isolando-os do restante do sistema computacional. Em alguns serviços, as máquinas virtuais são mais apropriadas do que os contêineres, a exemplo:",
+        "respostas": [
+            {
+                "desc": "Do empacotamento de microsserviços.",
+                "respostacerta": 1
+            },
+            {
+                "desc": "Da transferências de projetos entre diversas infraestruturas de TI com o mesmo sistema operacional.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Da criação de aplicações nativas em nuvem.",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Da confidencialidade.",
+                "respostacerta": 0
+            }
+        ]
+    },
+    {
+        "area": "Infra",
+        "pergunta": "Os aplicativos de mensagens não usam criptografia de ponta a ponta.",
+        "respostas": [
+            {
+                "desc": "Certo",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Errado",
+                "respostacerta": 1
+            }
+        ]
+    },
+    {
+        "area": "Infra",
+        "pergunta": "Entre alternativas a seguir, qual é a mídia portátil mais utilizada pelos usuários de computadores atualmente e que é utilizada por meio de uma porta USB?",
+        "respostas": [
+            {
+                "desc": "Android",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Gabinete",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Disco Rígido (HD)",
+                "respostacerta": 0
+            },
+            {
+                "desc": "Pen Drive",
+                "respostacerta": 1
+            }
+        ]
+    }
+]
